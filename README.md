@@ -5,16 +5,12 @@
 -  Atualmente aprendendo: Excel, Power BI e estou em busca de avançar os meus estudos em Python e SQL
 -  Objetivo: Compartilhar minha evolução através de projetos práticos
 
+---
+                                 **Habilidades Técnicas**  
 
- **Habilidades Técnicas**  
-```plaintext
-▢ Python (Avançado)          ▢ SQL/MySQL (Avançado)  
-▢ AWS Cloud (Básico)         ▢ Power BI (Intermediário)  
-▢ UX/UI Design (Avançado)    ▢ Figma (Avançado)  
-▢ Excel (Intermediário)      ▢ Azure AI/Data (Básico)  
-▢ Git/GitHub (Intermediário) ▢ Metodologias Ágeis (Intermediário)
-▢ Cybersecurity (Intermediário)  
 
- **Idiomas**  
-▢ Português (Nativo)         ▢ Inglês (Fluente)  
-▢ Espanhol (Intermediário)  
+
+
+
+
+
