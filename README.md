@@ -6,8 +6,8 @@
 -  Objetivo: Compartilhar minha evolução através de projetos práticos
 
 ---
-  <!-- Ou para títulos -->
-<h3 align="center">Habilidades Técnicas</h3>
+<div align="center">
+  **Habilidades Técnicas**
 
 
    
