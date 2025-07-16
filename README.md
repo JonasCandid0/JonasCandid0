@@ -11,8 +11,7 @@
   **Habilidades Técnicas**
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,html,css,git,github,kali,py,sklearn,mysql,matlab,tensorflow,vscode,linux&perline=8)](https://skillicons.dev)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png" alt="Power BI" width="50" style="vertical-align:middle">
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,html,css,git,github,kali,py,sklearn,mysql,matlab,tensorflow,vscode,linux,powerplatform&perline=8)](https://skillicons.dev)
 
   </div>
 
