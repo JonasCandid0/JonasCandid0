@@ -16,7 +16,12 @@
 <p align="center"> 
    
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,html,css,git,github,kali,&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=,git,github,kali,matlab,mysql,py,sklearn&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sklearn&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=matlab&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tensorflow&perline=3)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux&perline=3)](https://skillicons.dev)
