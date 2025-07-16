@@ -10,9 +10,16 @@
 <h3 align="center">Habilidades Técnicas</h3>
 
 <p align="center">
+  
   <a href="https://skillicons.dev">
     
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,html,css,git,github,kali,matlab,mysql,py,sklearn,tensorflow,vscode,linux&perline=3)](https://skillicons.dev)
+<p align="center"> 
+  
+  [![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,html,css,git,github,kali,matlab,mysql,py,sklearn,tensorflow,vscode,linux&perline=3)](https://skillicons.dev)
+  
+  <p/>
+
+  
   </a>
 </p>
 
