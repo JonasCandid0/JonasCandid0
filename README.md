@@ -11,10 +11,6 @@
   **Habilidades Técnicas**
 
 
-   
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,html,css,git,github,kali,py,&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sklearn,mysql,matlab,kali,tensorflow,vscode,linux&perline=3)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,html,css,git,github,kali,py,sklearn,mysql,matlab,tensorflow,vscode,linux&perline=8)](https://skillicons.dev)
  
   </div>
