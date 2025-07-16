@@ -1,6 +1,4 @@
 
-
-**Estudante de Ciências de dados e Sistemas de Informação | Aspirante a Analista de dados**
 --
 
 ##  Sobre Mim
