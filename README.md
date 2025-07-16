@@ -11,7 +11,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,&perline=3)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html,css)] 
+    
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,&perline=3)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
   </a>
 </p>
