@@ -1,6 +1,4 @@
-## Hello there 🖖
 
-# 👋 Olá, me chamo Jonas!
 
 **Estudante de Ciências de dados e Sistemas de Informação | Aspirante a Analista de dados**
 --
