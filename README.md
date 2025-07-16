@@ -9,7 +9,7 @@
   <!-- Ou para títulos -->
 <h3 align="center">Habilidades Técnicas</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,&perline=3)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 
 
 
