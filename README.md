@@ -7,6 +7,7 @@
 
 ---
 <div align="center">
+ 
   **Habilidades Técnicas**
 
 
