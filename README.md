@@ -16,16 +16,8 @@
 <p align="center"> 
    
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,html,css,git,github,kali,py&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sklearn&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=matlab&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=kali&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tensorflow&perline=3)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=,git&perline=3)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=sklearn,mysql,matlab,kali,github,tensorflow,vscode,linux&perline=3)](https://skillicons.dev)
+ 
   </a>
 </p>
 
