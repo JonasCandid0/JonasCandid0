@@ -13,6 +13,8 @@
    
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,html,css,git,github,kali,py,linux&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=sklearn,mysql,matlab,kali,tensorflow,vscode,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux&perline=3)](https://skillicons.dev)
+
  
   
 
