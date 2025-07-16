@@ -16,7 +16,8 @@
 <p align="center"> 
    
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,html,css,git,github,kali,&perline=3)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=,git,github,kali,matlab,mysql,py,sklearn,tensorflow,vscode,linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,git,github,kali,matlab,mysql,py,sklearn&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,vscode,linux&perline=3)](https://skillicons.dev)
   
   </a>
 </p>
