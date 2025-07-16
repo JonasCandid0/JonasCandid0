@@ -7,7 +7,7 @@
 
 ---
   <!-- Ou para títulos -->
-<h3 align="center">**Habilidades Técnicas**</h3>
+<h3 align="center">b>Habilidades Técnicas</h3>
 
 
 
