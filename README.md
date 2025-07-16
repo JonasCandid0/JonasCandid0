@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     
-[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) ![My Skills](https://skillicons.dev/icons?i=git,github,aws,azure,figma,&perline=3)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,figma&theme=light,html,css,git,github,kali,matlab,mysql,py,sklearn,tensorflow,vscode,linux&perline=3)](https://skillicons.dev)
 
   </a>
 </p>
