@@ -1,9 +1,9 @@
 
---
+# Estudante de Análise de Dados  
 
-##  Sobre Mim
--  Atualmente aprendendo: Excel, Power BI e estou em busca de avançar os meus estudos em Python e SQL
--  Objetivo: Compartilhar minha evolução através de projetos práticos
+Explorando dados, construindo projetos e aplicando técnicas de estatística, machine learning e visualização.  
+
+**Foco em:** Python, SQL e ferramentas de análise como Excel e Power Bi para transformar dados em insights. 
 
 ---
 <div align="center">
@@ -16,7 +16,6 @@
   </div>
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=JonasCandid0&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasCandid0&theme=dark&show_icons=true)
 
 
