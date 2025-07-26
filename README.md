@@ -14,10 +14,7 @@
 
 ##  Estatísticas do GitHub
 
-<div align="center">
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=JonasCandid0&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-
-</div>
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasCandid0&theme=algolia&layout=compact&hide_border=true)
