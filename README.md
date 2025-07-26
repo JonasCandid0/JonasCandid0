@@ -15,6 +15,7 @@
 ##  Estatísticas do GitHub
 
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=JonasCandid0&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasCandid0&theme=algolia&layout=compact&hide_border=true)
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonasCandid0&theme=algolia&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasCandid0&theme=algolia&layout=compact&hide_border=true" />
+</div>
