@@ -1,4 +1,8 @@
-## 🛠 Habilidades Técnicas
+# Analista de Dados 
+
+Formado em Design Digital e Ciências de Dados | Estudante de Sistemas de Informação  
+
+Transformo dados em insights com Python e SQL, mas meu verdadeiro objetivo é traduzir números em melhorias para pessoas. A análise de dados me permite cuidar dos outros de forma escalável - identificando padrões que revelam necessidades humanas.  
 
 <div align="center">
 
