@@ -14,11 +14,3 @@ Transformo dados em insights com Python e SQL, mas meu verdadeiro objetivo é tr
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
 </div>
-
-##  Estatísticas do GitHub
-
-
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonasCandid0&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasCandid0&theme=great-gatsby&layout=compact&hide_border=true" />
-</div>
