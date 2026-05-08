@@ -7,7 +7,7 @@ Transformo dados em insights com Python e SQL, mas meu verdadeiro objetivo é tr
 <div align="center">
 
 ### Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,html,css,git,github,kali,py,sklearn,mysql,matlab,tensorflow,vscode,linux&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,html,css,git,github,kali,py,sklearn,mysql,tensorflow,vscode,linux&perline=8)](https://skillicons.dev)
 
 ### Análise de Dados
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/)
